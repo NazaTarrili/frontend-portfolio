@@ -1,2 +1,2 @@
-# frontend.portfoil
-This's the frontend of my portfoil
+# frontend-portfolio
+This's the frontend of my portfolio
